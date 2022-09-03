@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java,MySql**
 
-- 📫 How to reach me **www.linkedin.com/in/ankush-bhardwaj-9758721b9**
+- 📫 How to reach me **<a href="https://linkedin.com/in/ankush-bhardwaj-9758721b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ ankush-bhardwaj-9758721b9" height="30" width="40" /></a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
